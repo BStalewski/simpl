@@ -1,4 +1,4 @@
-# Django settings for moj_projekt project.
+# Django settings for moj projekt project.
 
 
 DEBUG = True
