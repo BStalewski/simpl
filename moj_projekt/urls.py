@@ -9,6 +9,9 @@ from django.conf.urls.defaults import *
 #
 #
 
+# urls - pull test
+#
+
 urlpatterns = patterns('',
     # Example:
     # (r'^moj_projekt/', include('moj_projekt.foo.urls')),
