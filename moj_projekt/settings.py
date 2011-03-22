@@ -2,6 +2,7 @@
 #-------------
 #TEST
 #fdfs
+#ost
 
 DEBUG = True
 TEMPLATE_DEBUG = DEBUG
