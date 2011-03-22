@@ -1,6 +1,7 @@
 # Django settings for moj projekt project...
 #-------------
 #TEST
+#fdfs
 
 DEBUG = True
 TEMPLATE_DEBUG = DEBUG
