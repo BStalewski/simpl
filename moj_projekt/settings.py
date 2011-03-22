@@ -1,5 +1,6 @@
 # Django settings for moj projekt project...
 #-------------
+#TEST
 
 DEBUG = True
 TEMPLATE_DEBUG = DEBUG
