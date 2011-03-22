@@ -17,6 +17,7 @@ from django.conf.urls.defaults import *
 # restart-test v2
 # back
 # testm1
+# testm2
 
 urlpatterns = patterns('',
     # Example:
