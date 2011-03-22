@@ -4,6 +4,7 @@
 #fdfs
 #ost
 #ost2
+#ost3
 
 DEBUG = True
 TEMPLATE_DEBUG = DEBUG
