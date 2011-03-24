@@ -1,5 +1,13 @@
 # Django settings for moj projekt project...
-
+#-------------
+#TEST
+#fdfs
+#ost
+#ost2
+#ost3
+#ost4
+#ost5
+#dsfdlfj
 
 DEBUG = True
 TEMPLATE_DEBUG = DEBUG
